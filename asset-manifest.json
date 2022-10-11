@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://akashvasishter.github.io/csb-q20tur/static/css/main.cddb7bd1.chunk.css",
+    "main.js": "https://akashvasishter.github.io/csb-q20tur/static/js/main.91fa5e02.chunk.js",
+    "main.js.map": "https://akashvasishter.github.io/csb-q20tur/static/js/main.91fa5e02.chunk.js.map",
+    "runtime-main.js": "https://akashvasishter.github.io/csb-q20tur/static/js/runtime-main.9558d55f.js",
+    "runtime-main.js.map": "https://akashvasishter.github.io/csb-q20tur/static/js/runtime-main.9558d55f.js.map",
+    "static/js/2.fef1d53c.chunk.js": "https://akashvasishter.github.io/csb-q20tur/static/js/2.fef1d53c.chunk.js",
+    "static/js/2.fef1d53c.chunk.js.map": "https://akashvasishter.github.io/csb-q20tur/static/js/2.fef1d53c.chunk.js.map",
+    "index.html": "https://akashvasishter.github.io/csb-q20tur/index.html",
+    "static/css/main.cddb7bd1.chunk.css.map": "https://akashvasishter.github.io/csb-q20tur/static/css/main.cddb7bd1.chunk.css.map",
+    "static/js/2.fef1d53c.chunk.js.LICENSE.txt": "https://akashvasishter.github.io/csb-q20tur/static/js/2.fef1d53c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9558d55f.js",
+    "static/js/2.fef1d53c.chunk.js",
+    "static/css/main.cddb7bd1.chunk.css",
+    "static/js/main.91fa5e02.chunk.js"
+  ]
+}
